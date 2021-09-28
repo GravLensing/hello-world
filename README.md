@@ -1,2 +1,6 @@
 # hello-world
 The very first repository. Big things have small beginning...
+import numpy as np
+import astropy as ap
+import pandas as pd
+#this is where it all begins...
